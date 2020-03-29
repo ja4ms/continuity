@@ -1,217 +1,103 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+	<head>
+		<title></title>
+	</head>
+	<body>
 <p></p>
-<div align="center">
+<div align="center" style="font-size:14px;font-family: Arial; ">
     <center>
-        <center></center>
-        <table style="border: 1px inset #000000; width: 553px; height: 543px;" border="0" cellpadding="0" cellspacing="0">
-            <tbody>
-                <tr>
-                    <td style="font-size: 10px;" height="20" bgcolor="#5FBDFF" width="21">
+     
+        <table style="border:1px inset #000000;width:553px;height:543px;" id="yui_3_17_2_1_1585474226494_686" cellspacing="0" cellpadding="0" border="0"><tbody id="yui_3_17_2_1_1585474226494_685"><tr><td style="font-size:10px;" width="21" height="20" bgcolor="#5FBDFF">
                         <p align="left"></p>
                     </td>
-                    <td style="font-size: 10px;" height="20" bgcolor="#5FBDFF" width="512">
+                    <td style="font-size:10px;" width="512" height="20" bgcolor="#5FBDFF">
                         <p align="center"></p>
                     </td>
-                    <td style="font-size: 10px;" height="20" bgcolor="#5FBDFF" width="20"></td>
-                </tr>
-                <tr>
-                    <td style="font-size: 10px;" bgcolor="#5FBDFF" width="21"></td>
-                    <td style="font-size: 10px; border: 1px solid #c0c0c0; width: 512px; background-color: #ffffff;" align="left" valign="top">
-                        <table style="width: 512px; height: 319px;" border="0" cellpadding="20">
-                            <tbody>
-                                <tr>
-                                    <td style="width: 512px;">
-                                        <h1><span style="font-size: large;">Guten Abend allerseits<br></span></h1>
-                                        <p><strong><span style="font-size: medium;"><span style="color: #333399;">Zeit für Dall<br></span></span></strong></p>
-                                        <p><span style="background-color: transparent;"><span size="3"><span size="3" style="font-size: medium;">Der&nbsp;Fernunterricht eignet sich bestens für <strong>Leseverstehen</strong>, <strong>Schreiben</strong> und natürlich auch&nbsp;für das <strong>Üben der Regeln</strong>.</span></span>
+                    <td style="font-size:14px;" width="20" height="20" bgcolor="#5FBDFF"></td>
+                </tr><tr id="yui_3_17_2_1_1585474226494_684"><td style="font-size:10px;" width="21" bgcolor="#5FBDFF"></td>
+                    <td style="font-size:14px;border:1px solid #c0c0c0;width:512px;background-color:#ffffff;" id="yui_3_17_2_1_1585474226494_683" valign="top" align="left">
+                        <table style="width:512px;height:319px;" id="yui_3_17_2_1_1585474226494_682" cellpadding="20" border="0"><tbody id="yui_3_17_2_1_1585474226494_681"><tr id="yui_3_17_2_1_1585474226494_680"><td style="width:512px;" id="yui_3_17_2_1_1585474226494_679">
+                                        <h1><span style="font-size:large;"><span style="color:rgb(51,51,51);"><b>Guten Abend allerseits</b></span><br></span></h1>
+                                        <p><strong><span style="font-size:medium;"><span style="color:#333399;">Zeit f&uuml;r Dall<br></span></span></strong></p>
+                                        <p><span style="background-color:transparent;"><span><span style="font-size:medium;">Der&nbsp;Fernunterricht eignet sich bestens f&uuml;r <strong>Leseverstehen</strong>, <strong>Schreiben</strong> und nat&uuml;rlich auch&nbsp;f&uuml;r das <strong>&uuml;ben der Regeln</strong>.</span></span>
                                             </span>
                                         </p>
-                                        <p><span style="background-color: transparent;"><span size="3"><span size="3" style="font-size: medium;">&nbsp;</span></span>
+                                        <p><span style="background-color:transparent;"><span><span style="font-size:medium;">&nbsp;</span></span>
                                             </span>
                                         </p>
                                         <p></p>
-                                        <p><span style="background-color: transparent;"><span size="3"><span size="3" style="font-size: medium;"><strong>1) Auftrag: Lektüre</strong></span></span>
+                                        <p><span style="background-color:transparent;"><span><span style="font-size:medium;"><strong>1) Auftrag: Lekt&uuml;re</strong></span></span>
                                             </span>
                                         </p>
-                                        <p><span style="font-size: medium;">Aufgabe: Lesen Sie folgenden Artikel auf Montag:</span></p>
-                                        <p><span style="text-align: center; font-size: medium;"><a href="https://www.handelszeitung.ch/news/ladenschliessungen-kantonligeist-fuhrt-zu-chaos" title="Artikel zum Thema Logistik" target="_blank" class="btn-link" style="text-align: center;">Ladenschliessungen: «Kantönligeist» führt zu Chaos</a></span></p>
-                                        <div class="custominfo"><span style="font-size: medium;"> Ich stelle Ihnen am Montag dazu ein paar Verständnisfragen.</span></div>
+                                        <p><span style="font-size:medium;">Aufgabe: Lesen Sie folgenden Artikel auf Montag:</span></p>
+                                        <p><span style="text-align:center;font-size:medium;"><a href="https://www.handelszeitung.ch/news/ladenschliessungen-kantonligeist-fuhrt-zu-chaos" title="Artikel zum Thema Logistik" target="_blank" class="btn-link" style="text-align:center;" rel="noreferrer noopener">Ladenschliessungen: &quot;Kant&ouml;nligeist&quot; f&uuml;hrt zu Chaos</a></span></p>
+                                        <div class="custominfo"><span style="font-size:medium;"> Ich stelle Ihnen am Montag dazu ein paar Verst&auml;ndnisfragen.</span></div>
                                         <p></p>
-                                        <p><span style="font-size: medium;">&nbsp;</span></p>
-                                        <p><span style="font-size: medium;"><span size="3"><span size="3"><strong>2) Auftrag:&nbsp;Schreiben Sie mir&nbsp;eine Antwort hier ins moodle!</strong></span></span>
+                                        <p><span style="font-size:medium;">&nbsp;</span></p>
+                                        <p><span style="font-size:medium;"><span><span><strong>2) Auftrag:&nbsp;Schreiben Sie mir&nbsp;eine Antwort hier ins moodle!</strong></span></span>
                                             </span>
                                         </p>
-                                        <p style="text-align: center;"><span style="font-size: medium;"><span size="3"><span size="3"><a href="https://lms.eb-zuerich.ch/mod/dialogue/view.php?id=35662" title="Austauschkanal" target="_blank" class="btn-link">Austauschkanal</a></span></span>
+                                        <p style="text-align:center;"><span style="font-size:medium;"><span><span><a href="https://lms.eb-zuerich.ch/mod/dialogue/view.php?id=35662" title="Austauschkanal" target="_blank" class="btn-link" rel="noreferrer noopener">Austauschkanal</a></span></span>
                                             </span>
                                         </p>
-                                        <p style="text-align: center;"></p>
-                                        <ul>
-                                            <li style="text-align: left;"><span class="" style="font-size: medium;">Schreiben Sie mir, ob Sie sich vorstellen könnten, Ihre Präsentation online via Videokonferenz zu halten.</span><br></li>
-                                        </ul>
-                                        <p></p>
-                                        <div class="customhint"><span style="font-size: medium;"><span size="3">Dieser Auftrag wird bewertet!</span></span>
+                                        <p style="text-align:center;"></p>
+                                        <ul><li style="text-align:left;"><span style="font-size:medium;">Schreiben Sie mir, ob Sie sich vorstellen k&ouml;nnten, Ihre Pr&auml;sentation online via Videokonferenz zu halten.</span><br></li>
+                                        </ul><p></p>
+                                        <div class="customhint"><span style="font-size:medium;"><span>Dieser Auftrag wird bewertet!</span></span>
                                         </div>
-                                        <p><span><span size="3"><span size="3"><strong>&nbsp;</strong></span></span>
+                                        <p><span><span><span><strong>&nbsp;</strong></span></span>
                                             </span>
                                         </p>
                                         <p></p>
-                                        <p><span style="background-color: transparent;"><span size="3" style="font-size: medium;"><strong><span>3) Lernkontrolle – Zeigen Sie mir, was Sie gelernt haben</span></strong>
+                                        <p><span style="background-color:transparent;"><span style="font-size:medium;"><strong><span>3) Lernkontrolle &minus; Zeigen Sie mir, was Sie gelernt haben</span></strong>
                                             </span>
                                             </span>
                                         </p>
                                         <p></p>
-                                        <p><span style="background-color: transparent;"><span size="3"><span size="3" style="font-size: medium;">Sie haben im Buch "Klarsicht Deutsch" von Seite 16 bis Seite 34 gelesen.</span></span>
+                                        <p><span style="background-color:transparent;"><span><span style="font-size:medium;">Sie haben im Buch "Klarsicht Deutsch" von Seite 16 bis Seite 34 gelesen.</span></span>
                                             </span>
                                         </p>
-                                        <p><span style="background-color: transparent;"><span size="3"><span size="3" style="font-size: medium;">Am Montagnachmittag, 30. März '20 13:00 Uhr gehen Sie ins Moodle (via Handy oder PC) und lösen bitte die Aufgaben.</span></span>
+                                        <p><span style="background-color:transparent;"><span><span style="font-size:medium;">Am Montagnachmittag, 30. M&auml;rz '20 um 13:00 Uhr gehen Sie ins Moodle (via Handy oder PC) und l&ouml;sen bitte die Aufgaben.</span></span>
                                             </span>
                                         </p>
-                                        <p style="text-align: center;"><span style="background-color: transparent;"><span size="3"><span size="3" style="font-size: medium;">&nbsp;</span></span>
-                                            </span><span size="3" style="font-size: medium;"><a href="https://lms.eb-zuerich.ch/mod/url/view.php?id=35660" target="_blank" class="btn-link">Lernkontrolle</a></span></p>
-                                        <div class="customhint"><span class="" style="font-size: medium;">Dieser Auftrag wird bewertet!</span></div>
-                                        <p style="text-align: center;"><br></p>
-                                        <p style="text-align: center;"><br></p>
-                                        <p style="text-align: center;"><br></p>
+                                        <p style="text-align:center;"><span style="background-color:transparent;"><span><span style="font-size:medium;">&nbsp;</span></span>
+                                            </span><span style="font-size:medium;"><a href="https://lms.eb-zuerich.ch/mod/url/view.php?id=35660" target="_blank" class="btn-link" rel="noreferrer noopener">Lernkontrolle</a></span></p>
+                                        <div class="customhint"><span style="font-size:medium;">Dieser Auftrag wird bewertet!</span></div>
+                                        <p style="text-align:center;"><br></p>
+                                        <p style="text-align:center;"><b><span style="font-size:medium;">Haben Sie Fragen?&nbsp;Schreiben Sie mir eine Mail oder rufen Sie mich an: 079 644 38 21</span></b></p>
+                                        <p style="text-align:center;"><br></p>
                                         <p></p>
-                                        <p><span style="background-color: transparent;"><span size="3"><span size="3" style="font-size: medium;"><strong></strong></span></span>
+                                        <p><span style="background-color:transparent;"><span><span style="font-size:medium;"><strong></strong></span></span>
                                             </span>
                                         </p>
-                                        <div style="max-width: 700px; border-bottom: 1pt solid #dddddd;">
+                                        <div style="max-width:700px;border-bottom:1pt solid #dddddd;">
                                             <p></p>
                                         </div>
                                         <p></p>
-                                        <p><span style="background-color: transparent;"><span size="3"><span size="3" style="font-size: medium;">Sie wundern sich vielleicht, was dieser Clip unten soll? Nun, das ist ein Bild dafür, wie es uns mit dem INVOL-Kurs und mit Ihren Arbeitsplatz-Präsentationen ergangen ist. Alle unsere Pläne sind auf einmal geplatzt. Aber es ist nicht so schlimm! Wir müssen einfach den Stein nochmals platzieren – und los geht's!</span></span>
+                                        <p id="yui_3_17_2_1_1585474226494_678"><span style="background-color:transparent;"><span><span style="font-size:medium;">Sie wundern sich vielleicht, was dieser Clip unten soll? Nun, das ist ein Bild daf&uuml;r, wie es uns mit dem INVOL-Kurs und mit Ihren Arbeitsplatz-Pr&auml;sentationen ergangen ist. Alle unsere Pl&auml;ne wurden aufgrund der Corinna-Grippe durchkreuzt. Aber es ist nicht so schlimm! Wir m&uuml;ssen einfach den Stein nochmals aufheben und richtig platzieren &minus; und los geht's!</span></span>
                                             </span>
                                         </p>
-                                        <p><span style="background-color: transparent;"><span size="3"><span size="3" style="font-size: medium;"><br></span></span>
+                                        <p><span style="background-color:transparent;"><span><span style="font-size:medium;"><br></span></span>
                                             </span>
                                         </p>
-                                        <p><span style="background-color: transparent;"><span size="3"><span size="3" style="font-size: medium;">Ein schönes Wochenende und herzliche Grüsse</span></span>
+                                        <p><span style="background-color:transparent;"><span><span style="font-size:medium;">Ein sch&ouml;nes Wochenende und herzliche Gr&uuml;sse</span></span>
                                             </span>
                                         </p>
-                                        <p><span style="font-size: medium;">Xavier Molina</span></p>
+                                        <p><span style="font-size:medium;">Xavier Molina</span></p>
                                         <p></p>
                                     </td>
-                                </tr>
-                            </tbody>
-                        </table>
-                        <p style="margin-top: 0; margin-bottom: 0;"><img src="https://p196.p4.n0.cdn.getcloudapp.com/items/jkuKkrKZ/MA5Zji7.gif?v=1539c875dff7f082b4d22c8204c54d43" height="210" width="500"></p>
+                                </tr></tbody></table><p style="margin-top:0;margin-bottom:0;"><img src="https://p196.p4.n0.cdn.getcloudapp.com/items/jkuKkrKZ/MA5Zji7.gif?v=1539c875dff7f082b4d22c8204c54d43" alt="MA5Zji7.gif?v=1539c875dff7f082b4d22c8204c54d43" width="500" height="210"></p>
                     </td>
-                    <td style="font-size: 10px;" bgcolor="#5FBDFF" valign="top" width="20"></td>
-                </tr>
-                <tr>
-                    <td style="font-size: 10px;" height="20" bgcolor="#5FBDFF" width="21"></td>
-                    <td style="font-size: 10px;" height="20" bgcolor="#5FBDFF" width="512"></td>
-                    <td style="font-size: 10px;" height="20" bgcolor="#5FBDFF" width="20"></td>
-                </tr>
-            </tbody>
-        </table>
-    </center>
-</div><p></p>
-<div align="center">
-    <center>
-        <center></center>
-        <table style="border: 1px inset #000000; width: 553px; height: 543px;" border="0" cellpadding="0" cellspacing="0">
-            <tbody>
-                <tr>
-                    <td style="font-size: 10px;" height="20" bgcolor="#5FBDFF" width="21">
-                        <p align="left"></p>
-                    </td>
-                    <td style="font-size: 10px;" height="20" bgcolor="#5FBDFF" width="512">
-                        <p align="center"></p>
-                    </td>
-                    <td style="font-size: 10px;" height="20" bgcolor="#5FBDFF" width="20"></td>
-                </tr>
-                <tr>
-                    <td style="font-size: 10px;" bgcolor="#5FBDFF" width="21"></td>
-                    <td style="font-size: 10px; border: 1px solid #c0c0c0; width: 512px; background-color: #ffffff;" align="left" valign="top">
-                        <table style="width: 512px; height: 319px;" border="0" cellpadding="20">
-                            <tbody>
-                                <tr>
-                                    <td style="width: 512px;">
-                                        <h1><span style="font-size: large;">Guten Abend allerseits<br></span></h1>
-                                        <p><strong><span style="font-size: medium;"><span style="color: #333399;">Zeit für Dall<br></span></span></strong></p>
-                                        <p><span style="background-color: transparent;"><span size="3"><span size="3" style="font-size: medium;">Der&nbsp;Fernunterricht eignet sich bestens für <strong>Leseverstehen</strong>, <strong>Schreiben</strong> und natürlich auch&nbsp;für das <strong>Üben der Regeln</strong>.</span></span>
-                                            </span>
-                                        </p>
-                                        <p><span style="background-color: transparent;"><span size="3"><span size="3" style="font-size: medium;">&nbsp;</span></span>
-                                            </span>
-                                        </p>
-                                        <p></p>
-                                        <p><span style="background-color: transparent;"><span size="3"><span size="3" style="font-size: medium;"><strong>1) Auftrag: Lektüre</strong></span></span>
-                                            </span>
-                                        </p>
-                                        <p><span style="font-size: medium;">Aufgabe: Lesen Sie folgenden Artikel auf Montag:</span></p>
-                                        <p><span style="text-align: center; font-size: medium;"><a href="https://www.handelszeitung.ch/news/ladenschliessungen-kantonligeist-fuhrt-zu-chaos" title="Artikel zum Thema Logistik" target="_blank" class="btn-link" style="text-align: center;">Ladenschliessungen: «Kantönligeist» führt zu Chaos</a></span></p>
-                                        <div class="custominfo"><span style="font-size: medium;"> Ich stelle Ihnen am Montag dazu ein paar Verständnisfragen.</span></div>
-                                        <p></p>
-                                        <p><span style="font-size: medium;">&nbsp;</span></p>
-                                        <p><span style="font-size: medium;"><span size="3"><span size="3"><strong>2) Auftrag:&nbsp;Schreiben Sie mir&nbsp;eine Antwort hier ins moodle!</strong></span></span>
-                                            </span>
-                                        </p>
-                                        <p style="text-align: center;"><span style="font-size: medium;"><span size="3"><span size="3"><a href="https://lms.eb-zuerich.ch/mod/dialogue/view.php?id=35662" title="Austauschkanal" target="_blank" class="btn-link">Austauschkanal</a></span></span>
-                                            </span>
-                                        </p>
-                                        <p style="text-align: center;"></p>
-                                        <ul>
-                                            <li style="text-align: left;"><span class="" style="font-size: medium;">Schreiben Sie mir, ob Sie sich vorstellen könnten, Ihre Präsentation online via Videokonferenz zu halten.</span><br></li>
-                                        </ul>
-                                        <p></p>
-                                        <div class="customhint"><span style="font-size: medium;"><span size="3">Dieser Auftrag wird bewertet!</span></span>
-                                        </div>
-                                        <p><span><span size="3"><span size="3"><strong>&nbsp;</strong></span></span>
-                                            </span>
-                                        </p>
-                                        <p></p>
-                                        <p><span style="background-color: transparent;"><span size="3" style="font-size: medium;"><strong><span>3) Lernkontrolle – Zeigen Sie mir, was Sie gelernt haben</span></strong>
-                                            </span>
-                                            </span>
-                                        </p>
-                                        <p></p>
-                                        <p><span style="background-color: transparent;"><span size="3"><span size="3" style="font-size: medium;">Sie haben im Buch "Klarsicht Deutsch" von Seite 16 bis Seite 34 gelesen.</span></span>
-                                            </span>
-                                        </p>
-                                        <p><span style="background-color: transparent;"><span size="3"><span size="3" style="font-size: medium;">Am Montagnachmittag, 30. März '20 13:00 Uhr gehen Sie ins Moodle (via Handy oder PC) und lösen bitte die Aufgaben.</span></span>
-                                            </span>
-                                        </p>
-                                        <p style="text-align: center;"><span style="background-color: transparent;"><span size="3"><span size="3" style="font-size: medium;">&nbsp;</span></span>
-                                            </span><span size="3" style="font-size: medium;"><a href="https://lms.eb-zuerich.ch/mod/url/view.php?id=35660" target="_blank" class="btn-link">Lernkontrolle</a></span></p>
-                                        <div class="customhint"><span class="" style="font-size: medium;">Dieser Auftrag wird bewertet!</span></div>
-                                        <p style="text-align: center;"><br></p>
-                                        <p style="text-align: center;"><br></p>
-                                        <p style="text-align: center;"><br></p>
-                                        <p></p>
-                                        <p><span style="background-color: transparent;"><span size="3"><span size="3" style="font-size: medium;"><strong></strong></span></span>
-                                            </span>
-                                        </p>
-                                        <div style="max-width: 700px; border-bottom: 1pt solid #dddddd;">
-                                            <p></p>
-                                        </div>
-                                        <p></p>
-                                        <p><span style="background-color: transparent;"><span size="3"><span size="3" style="font-size: medium;">Sie wundern sich vielleicht, was dieser Clip unten soll? Nun, das ist ein Bild dafür, wie es uns mit dem INVOL-Kurs und mit Ihren Arbeitsplatz-Präsentationen ergangen ist. Alle unsere Pläne sind auf einmal geplatzt. Aber es ist nicht so schlimm! Wir müssen einfach den Stein nochmals platzieren – und los geht's!</span></span>
-                                            </span>
-                                        </p>
-                                        <p><span style="background-color: transparent;"><span size="3"><span size="3" style="font-size: medium;"><br></span></span>
-                                            </span>
-                                        </p>
-                                        <p><span style="background-color: transparent;"><span size="3"><span size="3" style="font-size: medium;">Ein schönes Wochenende und herzliche Grüsse</span></span>
-                                            </span>
-                                        </p>
-                                        <p><span style="font-size: medium;">Xavier Molina</span></p>
-                                        <p></p>
-                                    </td>
-                                </tr>
-                            </tbody>
-                        </table>
-                        <p style="margin-top: 0; margin-bottom: 0;"><img src="https://p196.p4.n0.cdn.getcloudapp.com/items/jkuKkrKZ/MA5Zji7.gif?v=1539c875dff7f082b4d22c8204c54d43" height="210" width="500"></p>
-                    </td>
-                    <td style="font-size: 10px;" bgcolor="#5FBDFF" valign="top" width="20"></td>
-                </tr>
-                <tr>
-                    <td style="font-size: 10px;" height="20" bgcolor="#5FBDFF" width="21"></td>
-                    <td style="font-size: 10px;" height="20" bgcolor="#5FBDFF" width="512"></td>
-                    <td style="font-size: 10px;" height="20" bgcolor="#5FBDFF" width="20"></td>
-                </tr>
-            </tbody>
-        </table>
-    </center>
+                    <td style="font-size:10px;" width="20" valign="top" bgcolor="#5FBDFF"></td>
+                </tr><tr><td style="font-size:10px;" width="21" height="20" bgcolor="#5FBDFF"></td>
+                    <td style="font-size:10px;" width="512" height="20" bgcolor="#5FBDFF"></td>
+                    <td style="font-size:10px;" width="20" height="20" bgcolor="#5FBDFF"></td>
+                </tr></tbody></table>    </center>
 </div>
+
+
+
+	</body>
+</html>
